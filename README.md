@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**DevNetoBr/DevNetoBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é José Vitor e sou programador web! 🚀
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente tenho 17 anos e estudo no IFMGSJE (Instituto Federal de Minas Gerais - São João Evangelista).
+- 👨‍💻 Estou constantemente aprendendo e me aprimorando em desenvolvimento web.
+- 💻 Tenho interesse em diversas áreas da programação web, incluindo desenvolvimento frontend, backend e bancos de dados.
+- 🎓 No momento, estou focado em expandir meus conhecimentos em tecnologias como HTML, CSS, JavaScript, Node.js e MongoDB.
+
+## Contato
+
+Você pode me encontrar nas seguintes plataformas:
+
+- Email: profissional.joseneto@gmail.com
+
+Se você tem interesse em trabalhar em projetos juntos ou apenas quer bater um papo sobre desenvolvimento web, não hesite em entrar em contato! Estou sempre aberto para colaborações e novas oportunidades.
