@@ -7,7 +7,7 @@ Meu nome é José Vitor e sou programador web! 🚀
 - 🌱 Atualmente tenho 17 anos e estudo no IFMGSJE (Instituto Federal de Minas Gerais - São João Evangelista).
 - 👨‍💻 Estou constantemente aprendendo e me aprimorando em desenvolvimento web.
 - 💻 Tenho interesse em diversas áreas da programação web, incluindo desenvolvimento frontend, backend e bancos de dados.
-- 🎓 No momento, estou focado em expandir meus conhecimentos em tecnologias como HTML, CSS, JavaScript, Node.js e MongoDB.
+- 🎓 No momento, estou focado em expandir meus conhecimentos em tecnologias como HTML, CSS, TS, JS, React, Node.js e MongoDB.
 
 ## Contato
 
